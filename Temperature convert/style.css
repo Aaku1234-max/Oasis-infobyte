@@ -1,0 +1,58 @@
+body{
+    background-image: url(image/img.jfif);
+    /* background-size:; */
+    text-align: center;
+    color: black;
+    font-size: 120%;
+  
+
+    
+}
+
+label{
+    font-size:18px;
+    font-family:  sans-serif;
+    font-style: italic;
+    border-color:palevioletred;
+    text-align: left;
+    font-weight: bold;
+}
+.container{
+
+   
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+input{
+   
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.button{
+height: auto;
+width: 200px;
+font-size: 1rem;
+font-family: sans-serif;
+font-weight: bold;
+background-origin: padding-box;
+padding: 10px;
+background-color: palevioletred;
+border-radius: 10px;
+border-color: black;
+}
+.button1{
+    height: auto;
+    width: 200px;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-origin: padding-box;
+    padding: 10px;
+    background-color: rgb(230, 175, 24);
+    border-radius: 10px;
+    border-color: black;
+    }
